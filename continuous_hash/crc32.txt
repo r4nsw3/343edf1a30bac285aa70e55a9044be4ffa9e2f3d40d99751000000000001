@@ -1,0 +1,10 @@
+data/00/00/00/00/00.bin	bb888fc9
+data/00/00/00/00/01.bin	4d7ddf70
+data/00/00/00/00/02.bin	97f74c6c
+data/00/00/00/00/03.bin	c5996f46
+data/00/00/00/00/04.bin	dbae21f3
+data/00/00/00/00/05.bin	ef611891
+data/00/00/00/00/06.bin	dc50dd2f
+data/00/00/00/00/07.bin	c8d778f1
+data/00/00/00/00/08.bin	e67fc323
+data/00/00/00/00/09.bin	d8dd1249
